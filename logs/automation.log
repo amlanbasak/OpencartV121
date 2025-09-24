@@ -1,0 +1,369 @@
+22:33:38.185 [main] INFO  testCases.TC003_LoginDataDrivenTest - ####### Browser selected is: Chrome #######
+22:33:41.152 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Starting TC003_LoginDataDrivenTest *****
+22:33:41.152 [main] INFO  testCases.TC003_LoginDataDrivenTest - Test Parameters are: Email=amlanb1@gmail.com Password=test12345 Validity=Valid
+22:33:41.152 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Home Page ***
+22:33:41.461 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Login Page ***
+22:33:43.265 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening My Account Page after login***
+22:33:43.599 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Finishing TC003_LoginDataDrivenTest *****
+
+22:33:43.602 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Starting TC003_LoginDataDrivenTest *****
+22:33:43.602 [main] INFO  testCases.TC003_LoginDataDrivenTest - Test Parameters are: Email=a123@gmail.com Password=Hello123 Validity=Invalid
+22:33:43.602 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Home Page ***
+22:33:43.854 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Login Page ***
+22:33:45.542 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening My Account Page after login***
+22:33:55.579 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Finishing TC003_LoginDataDrivenTest *****
+
+22:33:55.579 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Starting TC003_LoginDataDrivenTest *****
+22:33:55.579 [main] INFO  testCases.TC003_LoginDataDrivenTest - Test Parameters are: Email=b123@gmail.com Password=Test Validity=Invalid
+22:33:55.579 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Home Page ***
+22:33:55.843 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Login Page ***
+22:33:57.670 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening My Account Page after login***
+22:34:07.714 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Finishing TC003_LoginDataDrivenTest *****
+
+22:34:07.716 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Starting TC003_LoginDataDrivenTest *****
+22:34:07.716 [main] INFO  testCases.TC003_LoginDataDrivenTest - Test Parameters are: Email=c123@gmail.com Password=test@123 Validity=Invalid
+22:34:07.716 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Home Page ***
+22:34:07.965 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Login Page ***
+22:34:09.815 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening My Account Page after login***
+22:34:19.853 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Finishing TC003_LoginDataDrivenTest *****
+
+22:34:19.855 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Starting TC003_LoginDataDrivenTest *****
+22:34:19.855 [main] INFO  testCases.TC003_LoginDataDrivenTest - Test Parameters are: Email=archisa@gmail.com Password=test@123 Validity=Valid
+22:34:19.855 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Home Page ***
+22:34:20.103 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Login Page ***
+22:34:21.918 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening My Account Page after login***
+22:34:22.217 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Finishing TC003_LoginDataDrivenTest *****
+
+22:34:22.220 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Starting TC003_LoginDataDrivenTest *****
+22:34:22.220 [main] INFO  testCases.TC003_LoginDataDrivenTest - Test Parameters are: Email= Password=test@123 Validity=Invalid
+22:34:22.220 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Home Page ***
+22:34:22.519 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening Login Page ***
+22:34:24.302 [main] INFO  testCases.TC003_LoginDataDrivenTest - *** Opening My Account Page after login***
+22:34:34.319 [main] INFO  testCases.TC003_LoginDataDrivenTest - ***** Finishing TC003_LoginDataDrivenTest *****
+
+11:34:21.443 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+11:34:23.215 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+11:34:23.811 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+11:34:25.882 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+11:34:25.882 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+11:34:25.910 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+11:34:27.830 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+11:34:29.603 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+11:34:29.603 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+11:34:30.131 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+11:34:33.026 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+11:36:27.483 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+11:36:29.337 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+11:36:30.027 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+11:36:32.155 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+11:36:32.156 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+11:36:32.201 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+11:36:34.062 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+11:36:34.878 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+11:36:34.878 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+11:36:35.453 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+11:36:38.261 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+11:36:38.297 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+11:37:48.926 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+11:37:51.928 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+11:37:52.545 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+11:37:55.044 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+11:37:55.044 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+11:37:55.068 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+11:37:56.938 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+11:38:02.639 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+11:38:02.640 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+11:38:03.147 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+11:38:05.956 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+11:38:05.981 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+14:31:37.951 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+14:31:38.952 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+14:31:39.564 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+14:31:41.619 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+14:31:41.619 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+14:31:41.643 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+14:31:43.512 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+14:31:45.413 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+14:31:45.413 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+14:31:45.948 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+14:31:48.729 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+14:31:48.756 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+14:34:17.941 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+14:34:19.038 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+14:34:19.627 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+14:34:21.753 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+14:34:21.753 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+14:34:21.778 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+14:34:23.639 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+14:34:29.446 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+14:34:29.448 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+14:34:29.986 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+14:34:32.651 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+14:44:06.262 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+14:44:09.287 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+14:44:09.288 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+14:44:09.795 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+14:44:12.586 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+14:44:12.614 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+14:45:18.864 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+14:45:19.881 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+14:45:20.465 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+14:45:22.546 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+14:45:22.546 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+14:45:24.555 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+14:45:25.264 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+14:45:25.264 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+14:45:25.836 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+14:45:28.738 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+14:45:28.767 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+14:46:40.028 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+14:46:40.955 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+14:46:41.579 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+14:46:43.600 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+14:46:43.600 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+14:46:45.583 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+14:46:47.476 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+14:46:47.476 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+14:46:48.018 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+14:46:50.764 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+14:48:48.855 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+14:48:54.677 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+14:48:55.294 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+14:48:57.429 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+14:48:57.429 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+14:48:57.453 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+14:48:59.339 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+14:49:01.093 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+14:49:01.094 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+14:49:01.736 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+14:49:04.603 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+14:49:04.627 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+21:12:40.958 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+21:12:41.971 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+21:12:42.643 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+21:12:44.758 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+21:12:44.759 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+21:12:44.790 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+21:12:46.677 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+21:12:48.419 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+21:12:48.419 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+21:12:48.917 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+21:12:51.707 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+21:12:51.755 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+21:15:18.671 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+21:15:19.730 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+21:15:20.266 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+21:15:22.601 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+21:15:22.601 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+21:15:22.636 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+21:15:24.626 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+21:15:26.559 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+21:15:26.559 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+21:15:26.912 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+21:15:29.782 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+21:15:29.816 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+21:20:42.591 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+21:20:43.678 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+21:20:45.254 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+21:20:47.393 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+21:20:47.393 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+21:20:47.422 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+21:20:49.445 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+21:20:50.343 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+21:20:50.343 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+21:20:50.779 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+21:22:11.624 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+21:22:13.674 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+21:22:14.152 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+21:22:16.238 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+21:22:16.238 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+21:22:16.278 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+21:22:18.192 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+21:22:19.934 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+21:22:19.934 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+21:22:21.333 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+21:22:25.602 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+21:22:25.633 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+21:23:00.380 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: edge #######
+21:23:02.290 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+21:23:02.743 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+21:23:04.860 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+21:23:04.861 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+21:23:04.891 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+21:23:06.799 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: edge #######
+21:23:08.585 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+21:23:08.585 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+21:23:08.993 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+21:23:11.869 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+21:23:11.905 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+21:24:02.229 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Edge #######
+21:24:02.229 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+21:24:03.491 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+21:24:03.491 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+21:26:06.953 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: chrome #######
+21:26:08.091 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+21:26:08.622 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+21:26:10.847 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+21:26:10.847 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+21:26:10.886 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+21:26:12.818 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: chrome #######
+21:26:13.735 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+21:26:13.736 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+21:26:16.006 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+21:26:18.872 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+21:26:18.911 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+23:04:05.229 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: chrome #######
+23:04:06.247 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:04:06.902 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+23:04:09.003 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+23:04:09.004 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+23:04:09.044 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+23:04:10.978 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: chrome #######
+23:04:13.725 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+23:04:13.727 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+23:04:14.248 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+23:04:17.045 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+23:04:17.082 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+23:07:12.875 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:07:14.150 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+23:07:15.057 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Edge #######
+23:07:15.431 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:07:16.124 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:10:02.401 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+23:10:02.601 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Edge #######
+23:10:04.403 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:10:04.403 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:13:30.404 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+23:13:30.404 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Edge #######
+23:13:31.760 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:13:31.760 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:13:34.647 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: FireFox #######
+23:13:35.539 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:13:35.931 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+23:13:37.959 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+23:13:37.959 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+23:13:37.990 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+18:54:23.924 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: chrome #######
+18:54:25.100 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+18:54:25.678 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+18:54:28.584 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+18:54:28.584 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+18:54:28.640 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+18:54:30.358 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: chrome #######
+18:54:31.213 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:54:31.213 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+18:54:31.627 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+18:54:34.935 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+18:54:35.046 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+18:56:23.066 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Firefox #######
+18:56:24.430 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+18:56:24.960 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+18:56:27.088 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+18:56:27.089 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+18:56:27.124 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+18:56:30.733 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Firefox #######
+18:56:31.871 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:56:31.871 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+18:56:32.194 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+18:56:35.017 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+18:56:35.080 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+19:06:02.556 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: Chrome #######
+19:06:03.716 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+19:06:04.268 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+19:06:06.795 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+19:06:06.795 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+19:06:06.853 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+19:06:08.504 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: Chrome #######
+19:06:09.264 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+19:06:09.264 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+19:06:09.680 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+19:06:12.622 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+19:06:12.689 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+23:26:25.654 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: chrome #######
+23:26:26.686 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:26:27.119 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+23:26:29.446 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+23:26:29.446 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+23:26:29.471 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+23:26:31.417 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: chrome #######
+23:26:32.146 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+23:26:32.148 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+23:26:32.717 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+23:26:35.527 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+23:26:35.558 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+23:26:59.882 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: chrome #######
+23:27:00.756 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:27:01.780 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+23:27:04.013 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+23:27:04.013 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+23:27:04.079 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+23:27:05.901 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: chrome #######
+23:27:07.779 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+23:27:07.779 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+23:27:08.350 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+23:27:11.185 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+23:27:11.227 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+23:46:29.111 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: chrome #######
+23:46:31.208 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:46:31.800 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+23:46:33.970 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+23:46:33.970 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+23:46:34.000 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+23:46:35.879 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: chrome #######
+23:46:36.836 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+23:46:36.836 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+23:46:37.341 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+23:46:40.193 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+23:46:40.222 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
+23:49:50.080 [main] INFO  testCases.TC001_AccountRegistrationTest - ####### Browser selected is: chrome #######
+23:49:51.099 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting the execution of TC001_AccountRegistrationTest *****
+23:49:51.745 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Opening Account Registration Page ***
+23:49:53.855 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked CONTINUE button ***
+23:49:53.855 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Verifying the test results ***
+23:49:53.881 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finishing the execution of TC001_AccountRegistrationTest *****
+
+23:49:55.730 [main] INFO  testCases.TC002_LoginTest - ####### Browser selected is: chrome #######
+23:49:56.480 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+23:49:56.480 [main] INFO  testCases.TC002_LoginTest - *** Opening Home Page ***
+23:49:56.988 [main] INFO  testCases.TC002_LoginTest - *** Opening Login Page ***
+23:49:59.819 [main] INFO  testCases.TC002_LoginTest - *** Opening My Account Page after login***
+23:49:59.846 [main] INFO  testCases.TC002_LoginTest - ***** Finishing TC002_LoginTest *****
+
